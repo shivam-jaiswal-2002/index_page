@@ -1,0 +1,129 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: rgb(224 224 224);
+}
+
+.top-container {
+    text-align: center;
+}
+
+.header {
+    text-align: center;
+}
+
+.head-name {
+    background-color: rgba(27, 145, 214, 4);
+    margin: auto;
+}
+
+/*
+.navbar {
+    background-color: #73aee6;
+    margin: -8px;
+    margin-left: 0px;
+    margin-right: 0px;
+    border-radius: 10px;
+}
+
+.navbar ul {
+    overflow: auto;
+    /* padding: 2px; comment this line 
+}
+
+
+.navbar li {
+    float: left;
+    list-style: none;
+    padding: 11px 13px;
+}
+
+.navbar a {
+    padding: 11px 13px;
+    text-decoration: none;
+    color: black;
+}
+
+.navbar a:hover {
+    padding: 11px 13px;
+    text-decoration: none;
+    color: white;
+}
+
+.navbar li:hover {
+    float: left;
+    list-style: none;
+    padding: 11px 13px;
+    color: white;
+}
+
+.navbar div {
+    padding: 11px 2px 13px 950px;
+}
+
+.login-button {
+    margin-left: 140px;
+    border: 1.4px solid rgb(82, 204, 82);
+    height: 25px;
+    border-top-left-radius: 12px;
+    border-bottom-right-radius: 12px;   
+    font-size: 18px;
+    padding-left: 13px;
+    padding-right: 13px;
+    font-weight: bold;
+    color: rgb(35 128 63);
+}
+
+.login-button:hover {
+    background-color: #119222;
+    border: 2px groove black;
+    height: 25px;
+    color: white;
+    border-top-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    
+} 
+*/
+
+.offers h3 {
+    text-align: center;
+    color: rgb(97 103 107);
+    margin: 8px;
+}
+
+.labels {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    /* margin-left: 475px;
+    margin-right: 475px; */
+    margin: auto;
+    width: 25%;
+}
+
+
+#label-email-offer, #label-phone-offer {
+    margin-top: 8px;
+}
+
+
+.search-btn {
+    margin: 22px auto;
+    /* width: 10%; */
+    border: none;
+    /* padding: 12px 28px; */
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-size: 22px;
+    cursor: pointer;
+}
+
+.bottom-offers {
+    border: 15px ridge #65a5e6;
+    border-left: 10px inset #68ff7b;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    text-align: justify;
+}
+
+
